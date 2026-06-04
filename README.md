@@ -1,7 +1,8 @@
 # 🌍 Tour Nest
 
 <p align="center">
-  <img src="YOUR_SCREENSHOT_LINK_HERE" alt="Tour Nest Banner" width="100%" />
+ <img width="1345" height="605" alt="image" src="https://github.com/user-attachments/assets/79d4795e-882c-469e-8e7f-ce7a7f375dda" />
+
 </p>
 
 ## 🚀 Overview
