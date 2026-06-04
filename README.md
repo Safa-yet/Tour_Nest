@@ -1,36 +1,119 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌍 Tour Nest
 
-## Getting Started
+<p align="center">
+  <img src="YOUR_SCREENSHOT_LINK_HERE" alt="Tour Nest Banner" width="100%" />
+</p>
 
-First, run the development server:
+## 🚀 Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tour Nest is a full-stack travel and tour management platform designed to simplify trip planning and booking. Users can explore destinations, browse tour packages, book trips, manage travel schedules, and track their journey through a seamless and intuitive interface.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The platform focuses on providing a modern travel experience with secure authentication, efficient booking workflows, and responsive user interactions.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+🌐 Live Demo: https://tour-nest-nu.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ✨ Features
 
-To learn more about Next.js, take a look at the following resources:
+### 🔐 Authentication & Authorization
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Secure user authentication system
+* Protected routes and private pages
+* Session management with Better Auth
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🧳 Tour Booking System
 
-## Deploy on Vercel
+* Browse available tour packages
+* View detailed destination information
+* Book trips with a streamlined workflow
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 📅 Trip & Itinerary Management
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Manage upcoming travel plans
+* Track booking status
+* Organize travel schedules efficiently
+
+### 👤 User Dashboard
+
+* View and manage bookings
+* Access personal travel information
+* Monitor trip history and activities
+
+### 🎨 Modern User Experience
+
+* Fully responsive design
+* Interactive animations and transitions
+* Mobile, tablet, and desktop optimized
+
+### ⚡ Performance & Scalability
+
+* Server-side rendering with Next.js
+* Optimized API integration
+* Scalable application architecture
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+* Next.js
+* React.js
+* TypeScript
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+
+### Database
+
+* MongoDB
+
+### Authentication
+
+* Better Auth
+
+### Tools
+
+* Git
+* GitHub
+* Vercel
+* Postman
+
+---
+
+## 📌 Key Highlights
+
+* Full-Stack Architecture
+* Secure Authentication System
+* Tour Discovery & Booking Workflow
+* User Dashboard Management
+* Responsive UI/UX Design
+* Scalable Backend Integration
+* Modern Development Practices
+
+---
+
+## 🔮 Future Improvements
+
+* Online Payment Integration
+* Tour Guide Management
+* Review & Rating System
+* Email Notifications
+* Booking Analytics Dashboard
+* Admin Management Panel
+
+---
+
+## 👨‍💻 Author
+
+**Safayet Ul Islam**
+
+📧 [mdsafayet315@gmail.com](mailto:mdsafayet315@gmail.com)
+
+🌐 https://safayetdev.vercel.app/
+
+💼 https://linkedin.com/in/safayet-ul-islam
